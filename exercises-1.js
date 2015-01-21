@@ -1,3 +1,10 @@
+///////////Rework HW with .forEach //////
+///EXAMPLE from AM Lecture- just take out comment marks
+///arrOfObjs.forEach(function(currentValue) {
+  //console.log(currentValue.name, currentValue.age, currentValue.hobbies);
+//});
+/////////////////////
+
 /**
  * PART 1
  *
